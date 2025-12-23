@@ -1,0 +1,10 @@
+pandas 
+flask 
+html
+re
+unicodedata
+pandas
+numpy
+rapidfuzz
+fuzz
+os
